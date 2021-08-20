@@ -11,7 +11,7 @@ A brief description of what this project does and who it's for
 Right now I'm uploading Python Basics Cheat sheet, I will upload the numpy,
 pandas, matplotlib, seaborn in the future.
 
- - [Python Basics](https://github.com/argha-sarkar/Cheatsheet/tree/main/Python)
+ - [Python Basics](https://github.com/argha-sarkar/Cheatsheet/tree/main/Python/Python%20Basics)
  
   
 ## Screenshots
