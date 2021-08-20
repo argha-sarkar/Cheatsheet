@@ -60,9 +60,8 @@ To run all this project, you will need to the following environment
   
 ## Roadmap
 
-- Additional browser support
+- First Python basics
 
-- Add more integrations
 
   
 ## License
